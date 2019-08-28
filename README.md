@@ -2,7 +2,7 @@
 <img src="images/DSCJIITNOIDA.png"> 
 
 ## Python:3 Workshop by DSC JIIT NOIDA
-<img src="images/python_logo.png">
+<img src="images/python_logo.png" width="185px" height="185px">
 
 ## Introduction
 **Python** is a popular programming language. It was created by Guido van Rossum, and released in 1991.
