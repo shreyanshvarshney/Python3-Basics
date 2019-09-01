@@ -16,12 +16,17 @@ It is used for:
 ## Topics covered
  - Python Numbers
  - Python Strings
- - 
- - 
+ - Python Booleans, Conditionals and Loops
+ - Python Functions
+ - Python OOPS
+ - Python Lists and List Comprehensions
+ - Python Dictionaries
+ - Python Importing external libraries using inbuilt function
 
 ## Contributors
  - Shreyansh Varshney [Github](https://github.com/shreyanshvarshney)
  - Satyam Mittal [Github](https://github.com/Satyam3090)
  - Ayush Tiwari 
  - Shivam Aggarwal [Github](https://github.com/shivam-aggarwal)
+ - Simran Shilky [Github](https://github.com/Sonal240)
 
